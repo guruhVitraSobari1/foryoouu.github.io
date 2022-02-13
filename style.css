@@ -1,0 +1,27 @@
+.content {
+    padding-bottom: 50%;
+}
+.content p{
+    text-align: center;
+    font-size: 17px;
+}
+
+.about{
+    margin-left: 5%;
+}
+
+.mid{
+    padding-right: 5%;
+    margin-left: 38%;
+    width: 500px;
+    height: 400px;
+}
+
+.services .container{
+    padding-top: 8%;
+}
+
+.services .bawah{
+    width: 400px;
+    height: 300px;
+}
